@@ -56,7 +56,7 @@ BEGIN
         END cst_marital_status, --Normalize Marital Statuse values to readable format
      
         CASE 
-            WHEN UPPER(TRIM(cst_gndr)) = 'F' THEN 'Femel' 
+            WHEN UPPER(TRIM(cst_gndr)) = 'F' THEN 'Female' 
             WHEN UPPER(TRIM(cst_gndr)) = 'M' THEN 'Male'
             ELSE 'n/a'
         END cst_gndr, --Normalize Gender values to readable format
