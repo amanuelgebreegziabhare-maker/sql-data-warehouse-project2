@@ -23,7 +23,7 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-🎯 This repository is an excellent resource for showing my skills and capabilities  in:
+🎯 This repository is an excellent resource for showing the skills and capabilities  in:
 - SQL Development
 - Data Architect
 - Data Engineering  
@@ -64,9 +64,16 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ### BI: Analytics & Reporting (Data Analysis)
 The Analytics & Reporting section of this project is handled sub-dividing into :
-  **-##** SQL-Project - Exploratory Data Analysis, and 
-  **-##** SQL-Project - Advanced Data Analytics
-  hopping to imply the skills and capability in undertaking Data Analytics with SQL
+- **[SQL-Project - Exploratory Data Analysis](https://app.notion.com/p/SQL-Data-Warehouse-Project-3c3d1da0773b80e98b19cefff157c1f8):** Conducted comprehensive SQL-based exploratory analysis to understand customers, products, sales, and business performance.
+- **[SQL-Project - Advanced Data Analytics](https://app.notion.com/p/SQL-Data-Warehouse-Project-3c3d1da0773b80e98b19cefff157c1f8):** Implemented advanced analytical techniques using SQL to handle Key Components including
+-  Change Over Time Analysis
+-  Running Totals
+-  Window Functions
+-  CTEs
+-  Customer Segmentation,
+-  Product Performance Analysis, and
+-  Business Reporting
+hopping to imply the skills and capability in undertaking Data Analytics with SQL
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
