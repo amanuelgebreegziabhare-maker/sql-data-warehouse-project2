@@ -63,7 +63,10 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ---
 
 ### BI: Analytics & Reporting (Data Analysis)
-
+The Analytics & Reporting section of this project is handled sub-dividing into :
+  **-##** SQL-Project - Exploratory Data Analysis, and 
+  **-##** SQL-Project - Advanced Data Analytics
+  hopping to imply the skills and capability in undertaking Data Analytics with SQL
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
