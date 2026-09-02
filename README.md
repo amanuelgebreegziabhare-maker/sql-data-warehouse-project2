@@ -64,8 +64,8 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ### BI: Analytics & Reporting (Data Analysis)
 The Analytics & Reporting section of this project is handled sub-dividing into :
-- **[SQL-Project - Exploratory Data Analysis](https://app.notion.com/p/SQL-Data-Warehouse-Project-3c3d1da0773b80e98b19cefff157c1f8):** Conducted comprehensive SQL-based exploratory analysis to understand customers, products, sales, and business performance.
-- **[SQL-Project - Advanced Data Analytics](https://app.notion.com/p/SQL-Data-Warehouse-Project-3c3d1da0773b80e98b19cefff157c1f8):** Implemented advanced analytical techniques using SQL to handle Key Components including: Change Over Time Analysis, Running Totals, Window Functions, CTEs, Customer Segmentation, Product Performance Analysis, and Business Reporting
+- **[SQL-Project - Exploratory Data Analysis](https://github.com/amanuelgebreegziabhare-maker/SQL-Project-Exploratory-Data-Analysis):** Conducted comprehensive SQL-based exploratory analysis to understand customers, products, sales, and business performance.
+- **[SQL-Project - Advanced Data Analytics](https://github.com/amanuelgebreegziabhare-maker/SQL-Project-Advanced-Data-Analytics):** Implemented advanced analytical techniques using SQL to handle Key Components including: Change Over Time Analysis, Running Totals, Window Functions, CTEs, Customer Segmentation, Product Performance Analysis, and Business Reporting
 hopping to imply the skills and capability in undertaking Data Analytics with SQL
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
